@@ -1,6 +1,6 @@
 #include <stdio.h>
 
- 
+ //
 int main(){
 char cidade1[100] = "americana";
 char cidade2[100] = "santa barbara d oeste";
